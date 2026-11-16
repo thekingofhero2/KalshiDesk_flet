@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==== KalshiDesk 本地数据（私钥、数据库、配置）====
+data/
+*.pem
+*.duckdb
+*.duckdb-wal
+*.duckdb-shm
+*.spec

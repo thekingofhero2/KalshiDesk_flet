@@ -1,0 +1,5 @@
+flet>=1.1.0
+cryptography>=42.0
+requests[socks]>=2.31
+duckdb>=1.1
+PySocks
